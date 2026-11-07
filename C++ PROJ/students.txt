@@ -1,0 +1,6 @@
+35050317	Christian James	Dapar	Behing	Bachelor of Science in Information Systems (BSIS)	2nd Year	4	james22@gmail.com
+3505023	Anthony	Lazadas	A	Bachelor of Science in Information Systems (BSIS)	2nd Year	4	anthony@gmail.com
+3505025	Farrel Ivan 	Bagang	G	Bachelor of Science in Information Systems (BSIS)	2nd Year	4	farrel@gmail.com
+3505012	Vince Ervin	Facal	F	Bachelor of Science in Information Systems (BSIS)	2nd Year	4	vince@gmail.com
+350501	Mark Ronel	Adarne	A	Bachelor of Science in Information Systems (BSIS)	2nd Year	4	ronel@gmail.com
+23323	yami2323	dasdaw	dawd	Bachelor of Science in Information Systems (BSIS)	1st Year	daw	james @ gmai.com
